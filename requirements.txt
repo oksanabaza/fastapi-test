@@ -2,7 +2,7 @@ alembic==1.7.7
 aniso8601==7.0.0
 anyio==3.5.0
 appdirs==1.4.4
-apt-clone==0.2
+apt-clone
 apturl==0.5.2
 asgiref==3.5.2
 asn1crypto==0.24.0
